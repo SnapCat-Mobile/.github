@@ -8,7 +8,7 @@
 
 ## Introduction SnapCat Team 👋
 | Bangkit ID | Name | Learning Path | University |LinkedIn |
-| ---      | ---       | ---        | ---       | ---       |
+| ---      | ---       | ---         | ---       | ---       |
 | C335BSY4344 | Angga Aditya Putra Pratama | Cloud Computing | Universitas YARSI | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityalevine/) |
 | C006BSX3705 | Rizma Ayu Sofie Prahastika | Cloud Computing | Universitas Brawijaya | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizmaayusp/) |
 | M315BSY0559 | Muhammad Alpim Alfa Rolis | Machine Learning | Universitas Sriwijaya | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadalpimalfarolis/) |
