@@ -30,3 +30,21 @@
   - [x] Pet Shop Recommend
 * Scan
   - [x] Detail Lens
+
+## Design 💻
+<div align="center">
+	<img src="/design/register.png" width="200px">
+	<img src="/design/forgot-password.png" width="200px">
+	<img src="/design/login.png" width="200px">
+	<img src="/design/home.png" width="200px">
+	<br><br>
+	<img src="/design/course.png" width="200px">
+	<img src="/design/about.png" width="200px">
+	<img src="/design/lessons.png" width="200px">
+	<img src="/design/exercises.png" width="200px">
+	<br><br>
+	<img src="/design/exams.png" width="200px">
+	<img src="/design/activity.png" width="200px">
+	<img src="/design/edit-profile.png" width="200px">
+	<img src="/design/change-password.png" width="200px">
+</div>
