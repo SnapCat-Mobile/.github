@@ -15,3 +15,16 @@
 | M131BSX1313 | Nadilla Amanda Martha Afrhissa | Machine Learning | Politeknik Negeri Malang | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadilla-amanda-martha-afrhissa/) |
 | M258BSX0209 | Pritha Aulliah | Machine Learning | Universitas Muhammadiyah Malang | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritha-aulliah-08b93a1b7/) |
 | A335BSY2972 | Rizal Abimanyu | Mobile Development | Universitas YARSI | [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizalabimanyu202/) |
+
+## Features 🚀
+* Auth
+  - [x] Register
+  - [x] Forgot Password
+  - [x] Login
+* Profile
+  - [x] Latest Journey
+  - [x] Logout
+* Shop
+  - [x] Pet Shop Recommend
+* Scan
+  - [x] Detail Lens
