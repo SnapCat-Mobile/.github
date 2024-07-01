@@ -23,6 +23,8 @@
   - [x] Login
 * Profile
   - [x] Latest Journey
+  - [x] Settings:
+    - [x] Dark Mode
   - [x] Logout
 * Shop
   - [x] Pet Shop Recommend
